@@ -1,5 +1,5 @@
 body, html {
-	background-color: yellow;
+	background-color: aquamarine;
 }
 
 /*
@@ -32,7 +32,7 @@ body, html {
   color: white;
   background: limegreen;
   
-  background-image: url("resources/waterpark.jpg") no-repeat center center;
+  background-image: url(./resources/waterpark.jpg) no-repeat center center;
   background-size: cover;
 }
 
