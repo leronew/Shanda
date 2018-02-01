@@ -1,0 +1,17 @@
+.topbar{
+	text-align: right;
+	background-color: #3eff4a;
+	color: #fff;
+	font-family: Helvetica;
+	padding-right: 2em;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+#logo {
+	width: 10%;
+}
+
+.navbar-nav{
+	background-color: white;
+}

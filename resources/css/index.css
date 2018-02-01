@@ -1,0 +1,32 @@
+body {
+  background: linear-gradient(#fa0, #3eff4a);
+  text-align: center; }
+
+.top h1 {
+  color: #fff;
+  font-family: Rockwell, Helvetica, sans-serif;
+  font-size: 50px; }
+
+
+.link {
+  color: aquamarine;
+  font-size: 16px; }
+  
+.center {
+  margin-top: -1.8em;
+}
+
+.center h2, .bottom h2 {
+  color: #fff;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px; }
+
+.center p {
+  color: grey;
+  font-family: Verdana;
+  font-size: 21px; }
+
+.footer {
+  text-align: right;
+  color: grey; }

@@ -1,0 +1,89 @@
+body, html {
+	font-family: 'Playfair Display', serif;
+}
+
+.navbar{
+	background: #fff !important;
+}
+
+.logo{
+	width: 15%;
+}
+
+li{
+	width: 100px;
+	text-align: center;
+}
+
+.img_div{
+	text-align: center;
+}
+
+.li_styling1{
+	background: #85cfef;
+}
+
+.li_styling2{
+	background: #fa0;
+}
+
+.li_styling3{
+	background: #3eff4a;
+}
+
+.li_styling4{
+	background: green;
+}
+
+.li_styling5{
+	background: yellow;
+}
+
+.li_styling6{
+	background: pink;
+}
+
+.jumbotron{
+    position: relative;
+    background-image: url("waterpark.jpg");
+    height: 600px;
+	width: 80%;
+	margin: auto;
+    background-size: cover;
+    overflow: hidden;
+    text-align: center;
+	margin-top: -20px;
+}
+
+.container{
+	color: #fff;
+}
+
+
+
+#splash {
+	width: 60%;
+	height: 60%;
+	border-radius: 10%;
+}
+
+.col-md-6 {
+	background: #F9F10C;
+}
+
+.col-md-6 img{
+	height: 50rem;
+	border-radius: 100%;
+}
+
+.end{
+	background: #FF5733;
+	width: 100%;
+	height: 200px;
+}
+
+.third{
+	margin-top: 100px;
+	font-family: monospace;
+	font-size: 1.5rem;
+}
