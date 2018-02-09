@@ -1,0 +1,45 @@
+body{
+    font-size: 20px;
+}
+
+.faqs_img{
+    width: 100%;
+    text-align: center;
+}
+
+
+.faqs_img img{
+    width: 50%;
+}
+
+#faqs_container{
+    padding: 1rem 4rem;
+    background-color: aqua;
+}
+
+.question {
+    display: inline-block;
+    width: 60%;
+    padding: 2rem;
+    margin: 1rem;
+    font-size: 2rem;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: azure;
+}
+ 
+.answer {
+    display: none;
+    width: 60%;
+    background-color: darkorange;
+    padding: 2rem;
+    margin: 1rem;
+    font-size: 1.5rem;
+    font-family: Verdana;
+    color: #fff;
+}
+
+.fa{
+    margin-right: 2rem;
+    font-size: 3rem;
+}

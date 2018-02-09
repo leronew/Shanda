@@ -1,0 +1,70 @@
+body{
+    font-size: 18px;
+}
+
+.contact{
+    height: 2rem;
+    width: 100%;
+    text-align: end;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 600;
+    background-color: #3eff4a;
+    padding-right: 4rem;
+}
+
+header{
+    height: 16rem;
+    text-align: center;
+    border-bottom: 2px solid #fa0;
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+}
+
+#logo{
+    width: 8%;
+    margin: 0 auto 2rem;
+    position: relative;
+}
+
+.tab{
+    display: inline-table;
+    padding: 1rem;
+    margin: -0.6rem 1rem 0;
+    width: 10rem;
+    background-color: #85cfef;
+    color: #fff;
+}
+
+.tab:hover{
+    background-color: #3eff4a;
+    text-decoration: none;
+}
+
+footer{
+    margin-top: 2rem;
+    height: 12rem;
+    display: flex;
+    border-top: 2px solid red;
+    color: #000;
+    text-align: center;
+    background-image: url('../images/frigatebay.jpg');
+}
+
+address{
+    display: flex;
+    flex-direction: column; 
+}
+
+#name{
+    font-size: 3rem;
+}
+
+.author{
+    position: relative;
+    bottom: 10rem;
+    right: 2rem;
+    text-align: end;
+    text-decoration: none;
+    color: #000;
+}

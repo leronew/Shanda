@@ -1,32 +1,46 @@
 body {
   background: linear-gradient(#fa0, #3eff4a);
-  text-align: center; }
+  text-align: center;
+font-size: 16px;}
+
+.contact{
+    height: 2rem;
+    width: 100%;
+    text-align: end;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 600;
+    background-color: #3eff4a;
+    padding-right: 4rem;
+}
 
 .top h1 {
   color: #fff;
   font-family: Rockwell, Helvetica, sans-serif;
-  font-size: 50px; }
+  font-size: 3.1rem; }
 
 
 .link {
   color: aquamarine;
-  font-size: 16px; }
+  font-size: 1rem; }
   
 .center {
-  margin-top: -1.8em;
+  margin-top: -1.8rem;
 }
 
 .center h2, .bottom h2 {
   color: #fff;
   font-family: Verdana;
   font-weight: 300;
-  font-size: 42px; }
+  font-size: 2.8rem; }
 
-.center p {
-  color: grey;
-  font-family: Verdana;
-  font-size: 21px; }
+.center a {
+  font-size: 3rem; }
 
 .footer {
   text-align: right;
   color: grey; }
+
+.btn-lg{
+    width: 20%;
+}
